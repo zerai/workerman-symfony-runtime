@@ -2,6 +2,7 @@
     "name": "manyou/workerman-symfony-runtime",
     "type": "library",
     "description": "Run Symfony applications with Workerman",
+    "version": "0.1",
     "keywords": ["workerman", "symfony", "runtime", "php-runtime"],
     "homepage": "https://github.com/manyou-io/workerman-symfony-runtime",
     "license": "MIT",
