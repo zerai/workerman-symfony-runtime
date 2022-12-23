@@ -1,5 +1,5 @@
 {
-    "name": "manyou/workerman-symfony-runtime",
+    "name": "zerai/workerman-symfony-runtime",
     "type": "library",
     "description": "Run Symfony applications with Workerman",
     "version": "0.1",
